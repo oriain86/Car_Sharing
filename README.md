@@ -1,5 +1,3 @@
-#Car Sharing Console Application
-
 Welcome to the Car Sharing Console Application project! This project simulates the core functionalities of a car-sharing system using Java. It showcases how a console-based program can be built using object-oriented principles without the need for frameworks like Spring.
 
 The application is structured to manage companies, cars, and customers through a flow controlled entirely in the Main class. It incorporates DAO (Data Access Object), service, and model classes for modular and organized code.
